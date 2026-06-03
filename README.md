@@ -1,4 +1,4 @@
-![Banner](./Blue and White Simple Designer LinkedIn Banner.png)
+![Banner](./banner)
 
 # Hi! My name is David
 
