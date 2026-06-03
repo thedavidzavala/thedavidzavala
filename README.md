@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0,0,0,100,333333&height=200&text=David&fontSize=50&fontColor=ffffff&theme=dark&desc=Computer%20Engineering%20%7C%20UDEM&descSize=18&descAlignY=70)
+![Banner](./Blue and White Simple Designer LinkedIn Banner.png)
 
 # Hi! My name is David
 
