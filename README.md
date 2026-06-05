@@ -8,4 +8,5 @@ I'm 21 years old, currently studying computer engineering at UDEM (Universidad d
 - [Operating System Simulator](https://ubiquitous.udem.edu/~621613_user/simulador/) — A simulator capable of replicating the behaviour of an Operating System with its processes, pagination algorithms, cores...
 
 Also, you can find my LinkedIn profile here 👇🏻:
+
 [LinkedIn](https://linkedin.com/in/tu-perfil)
