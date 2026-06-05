@@ -6,7 +6,6 @@ I'm 21 years old, currently studying computer engineering at UDEM (Universidad d
 
 - [Artificial Intelligence](https://github.com/thedavidzavala/Inteligencia-Artificial/tree/main) — Some projects done in Google Colab and Jupyter Notebook.
 - [Operating System Simulator](https://ubiquitous.udem.edu/~621613_user/simulador/) — A simulator capable of replicating the behaviour of an Operating System with its processes, pagination algorithms, cores...
-- [Medicare App](https://github.com/tu-usuario/nombre-repo) — Medical app for hospitals with a triage classification for patients. Built with React.
 
 Also, you can find my LinkedIn profile here 👇🏻:
 [LinkedIn](https://linkedin.com/in/tu-perfil)
